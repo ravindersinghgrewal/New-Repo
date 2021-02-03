@@ -14,7 +14,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 Public Class Naresh
 {
-system.out.print("hello naresh")
+system.out.print("hello naresh++")
 }
 public class NewTest 
 {
